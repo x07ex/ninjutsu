@@ -1,5 +1,5 @@
 <img
-  src="https://github.com/exfck/ninjutsu/blob/main/assets/banner.png"
+  src="https://github.com/x07ex/ninjutsu/blob/master/assets/banner.png"
   width="100%"
   height="100%"
 />
